@@ -5,7 +5,7 @@
 - VsCode
 - ReactJS
 - StyleComponents
-- API [github](https://api.github.com/)
+- [API Github](https://api.github.com/)
 
 # Como utilizar 🔌
 - Clone o repositório
