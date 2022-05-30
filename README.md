@@ -5,9 +5,9 @@
 - VsCode
 - ReactJS
 - StyleComponents
-- API github: "https://api.github.com/"
+- API [github](https://api.github.com/)
 
-# Como utilizar :runner:
+# Como utilizar 🔌
 - Clone o repositório
 - Dentro da pasta do projeto, instale as dependências com yarn install
 - Execute o comando: yarn start para rodar o projeto
